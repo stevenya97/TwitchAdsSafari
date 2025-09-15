@@ -16,3 +16,6 @@ Currently in Safari, Userscripts are the best working solution to tackle ads in 
   - Free - [Userscript](https://apps.apple.com/us/app/userscripts/id1463298887)(by [Quoid](https://github.com/quoid/userscripts))
   - Paid - [Tampermonkey](https://apps.apple.com/us/app-bundle/tampermonkey-bundle/id1780757125?mt=12)($2.99 for the app bundle. Contains both Safari and legacy Safari versions. Individual extensions are also available.)
 - Viewing one of the userscript files should prompt the given script to be added (assuming you have a userscript manager installed). Otherwise, import it manually.
+
+## Troubleshooting
+- Make sure that only one solution/script is enabled at a time. Solutions often conflict with one another trying to manipulate the same underlying video stream served to you.
