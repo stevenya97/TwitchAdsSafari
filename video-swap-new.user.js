@@ -2,7 +2,7 @@
 // @name         TwitchAdSolutions (video-swap-new)-legacy safari
 // @namespace    https://github.com/pixeltris/TwitchAdSolutions
 // @version      1.38
-// @description  Working legacy version of vsn(<v1.38) for Safari due to breaking script changes after 06.27.25 - Multiple solutions for blocking Twitch ads (video-swap-new)
+// @description  Latest working legacy version of video-swap-new(<v1.38) for Safari due to breaking script changes after 06.27.25 - Multiple solutions for blocking Twitch ads (video-swap-new)
 // @author       pixeltris
 // @match        *://*.twitch.tv/*
 // @run-at       document-start
