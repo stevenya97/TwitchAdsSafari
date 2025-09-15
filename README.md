@@ -6,6 +6,8 @@ This repo aims to keep track of various adblock solutions for Twitch.tv in Safar
 Currently in Safari, Userscripts are the best working solution to tackle ads in Twitch. Userscripts are small Javascript files you can run in your browser.
 
 ## Script
+*As of 06/27/25, updated versions of the scripts from [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) are not working in the `Userscript` extension by Quoid. The versions below are the latest working versions of those scripts. If you are using Tampermonkey and want the latest updated scripts, follow [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
+
 - vaft - [userscript(permalink)](https://raw.githubusercontent.com/stevenya97/TwitchAdsSafari/8fd54137db9b228319af4c5259a0b660bf9b27f9/vaft.user.js)
   - Uses a lower resolution stream(typically <360p) during ads. Swaps back to full quality(if user selected) after ads are over.
 - video-swap-new - [userscript(permalink)](https://raw.githubusercontent.com/stevenya97/TwitchAdsSafari/0e01efe06415a56c827049a4d45bdf9895fb1251/video-swap-new.user.js)
