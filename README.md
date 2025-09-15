@@ -21,3 +21,6 @@ Currently in Safari, Userscripts are the best working solution to tackle ads in 
 
 ## Troubleshooting
 - Make sure that only one solution/script is enabled at a time. Solutions often conflict with one another trying to manipulate the same underlying video stream served to you.
+
+## Contributing
+Feel free to make a pull request or create a new issue here discussing any new or updated solutions.
