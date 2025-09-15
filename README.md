@@ -1,5 +1,5 @@
 # Twitch Ads in Safari
-This repo aims to keep track of various adblock solutions for Twitch.tv in Safari. Solutions apply to both iOS/iPadOS and macOS unless otherwise stated. Forked from 
+This repo aims to keep track of various adblock solutions for Twitch.tv in Safari. Solutions apply to both iOS/iPadOS and macOS unless otherwise stated. Forked from [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions).
 
 **Don't combine Twitch specific ad blockers.**
 ## Recommendations
