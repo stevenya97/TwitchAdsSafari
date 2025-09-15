@@ -2,7 +2,7 @@
 // @name         TwitchAdSolutions (vaft)-legacy safari
 // @namespace    https://github.com/pixeltris/TwitchAdSolutions
 // @version      20.0.0
-// @description  Working legacy version of vaft(<v20) for Safari due to breaking script changes after 06.27.25 - Multiple solutions for blocking Twitch ads (vaft)
+// @description  Latest working legacy version of vaft(<v20) for Safari due to breaking script changes after 06.27.25 - Multiple solutions for blocking Twitch ads (vaft)
 // @author       https://github.com/cleanlock/VideoAdBlockForTwitch#credits
 // @match        *://*.twitch.tv/*
 // @run-at       document-start
