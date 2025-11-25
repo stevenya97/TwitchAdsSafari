@@ -4,6 +4,8 @@ This repo aims to keep track of various adblock solutions for Twitch.tv in Safar
 ## Update Nov. 2025
 The working legacy versions of the scripts below have been superceded with further scriot uodates and changes on Twitch's end for habdling streams. Legacy scripts here may still work but in the meantime, this repo be put into read-only mode as the uodate scripts from TwitchAdSolutions work better and fix the previous compatibility issues with Safari.
 
+
+
 **Don't combine Twitch specific ad blockers.**
 ## Recommendations
 Currently in Safari, Userscripts are the best working solution to tackle ads in Twitch. Userscripts are small Javascript files you can run in your browser.
