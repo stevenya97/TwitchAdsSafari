@@ -2,9 +2,11 @@
 This repo aims to keep track of various adblock solutions for Twitch.tv in Safari. Solutions apply to both iOS/iPadOS and macOS unless otherwise stated. Forked from [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions).
 
 ## Update Nov. 2025
-The working legacy versions of the scripts below have been superceded with further scriot uodates and changes on Twitch's end for habdling streams. Legacy scripts here may still work but in the meantime, this repo be put into read-only mode as the uodate scripts from TwitchAdSolutions work better and fix the previous compatibility issues with Safari.
+The working legacy versions of the scripts below have been superceded with further script updates and changes on Twitch's end for handling streams. Legacy scripts here may still work but in the meantime, this repo will be put into read-only mode as the updated scripts from TwitchAdSolutions work better and fix the previous compatibility issues with Safari.
 
+[pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)
 
+--------------------------------------------------
 
 **Don't combine Twitch specific ad blockers.**
 ## Recommendations
